@@ -1,0 +1,27 @@
+.testimonials {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .nav-buttons {
+    margin-top: 10px;
+  }
+  
+  .surprise-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1.25rem;
+  }
+  
+  .surprise-button:hover {
+    background-color: black;
+    color: wheat;
+  }
+
+  
+  
